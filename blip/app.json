@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Blip",
+    "slug": "blip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0D0D0B"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.blip.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D0B"
+      },
+      "package": "com.blip.app"
+    },
+    "plugins": ["expo-font"]
+  }
+}
